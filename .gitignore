@@ -1,0 +1,8 @@
+venv_*
+PyOpenGL_*
+ZED_SDK_*
+pyzed*
+PyOpenGL-*
+zed-sdk/*
+__pycache__/
+
