@@ -5,4 +5,4 @@ pyzed*
 PyOpenGL-*
 zed-sdk/*
 __pycache__/
-
+src/captures/*
