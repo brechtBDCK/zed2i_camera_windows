@@ -6,3 +6,4 @@ PyOpenGL-*
 zed-sdk/*
 __pycache__/
 src/captures/*
+src/video_captures/*

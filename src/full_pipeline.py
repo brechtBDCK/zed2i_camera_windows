@@ -13,7 +13,7 @@ REMOVE_SATURATED_AREAS = False #removes overexposed areas from the depth map
 ENABLE_FILL_MODE = False
 DEPTH_STABILIZATION = 30
 
-DEPTH_MINIMUM_DISTANCE_METERS = 2.0
+DEPTH_MINIMUM_DISTANCE_METERS = 1.0
 DEPTH_MAXIMUM_DISTANCE_METERS = 4.0
 
 #ROI for auto exposure and gain (AEC/AGC) in pixels, relative to the top-left corner of the image. 
